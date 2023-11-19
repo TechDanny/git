@@ -1,6 +1,6 @@
-body {
-    background-color: rgb(102, 99, 99);
+col1 {
+    background-color: red;
 }
-h1 {
-    color: rgb(0, 153, 255);
+body {
+    background-color: blue;
 }
